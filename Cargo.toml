@@ -1,0 +1,8 @@
+[package]
+name = "macros"
+version = "0.1.0"
+authors = ["cuisongliu <cuisongliu@qq.com>"]
+edition = "2021"
+description = "macros, a rusty-hermit application"
+repository = "https://github.com/rust-learn-days/macros"
+[dependencies]
